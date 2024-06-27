@@ -1,9 +1,14 @@
 ![Header](https://github.com/ElectroIGO/ElectroIGO/raw/main/header.jpg)
-
+<!--https://www.webfx.com/tools/emoji-cheat-sheet/-->
 # Hi there, I'm Rodrigo Laurinovics 👋
 
 Welcome to my GitHub profile! I am a passionate in electronic engineering with a keen interest in telecommunications, embedded systems and space. Here you'll find some of the projects I've been working on, as well as the skills and technologies I've been using.
 
+## 🗣 Spoken languages
+  - Latvian 🇱🇻
+  - English 🇬🇧
+  - Latgalian
+    
 ## 🚀 About Me
 
 - 🔭 I’m currently working on stratospheric probe mission and working in Virac technical department.
@@ -13,22 +18,27 @@ Welcome to my GitHub profile! I am a passionate in electronic engineering with a
 - 💬 Ask me about board development, fpga programming (VHDL), embedded systems development, C language programming and audio amplifiers.
 - 😄 Pronouns: He/him/his
 
-## 🛠️ Skills
 
-- **Languages:**
-  - Latvian 🇱🇻
-  - English 🇬🇧
-  - Latgalian
+## 🈸 Programming Languages
+<!--https://devicon.dev/-->
+  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />  
+  <img align="left" alt="Cembedded" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
+  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="left" alt="cmake" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-plain.svg" />         
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<br />
 
-- **Tools and Platforms:**
+## 🧰 Tools and Platform
   - Quartus Development Suit
   - STM32-CubeIDE
-  - Visual Studio Code
+  - vsCode
   - Kicad
   - FreeCad
   - Microchip Studio for AVR
   - Logisim
-
+    
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElectroIGO&show_icons=true&theme=radical)
